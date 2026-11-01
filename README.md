@@ -59,7 +59,7 @@ sudo xcodebuild -license
 
 ## Download APP
 
-[! Download Github Manager Latest Version ] (https://github.com/namgyall/Github_Manager/releases/latest/download/GITHUB.MANAGER.dmg)
+[![Download Github Manager Latest Version] (https://github.com/namgyall/Github_Manager/releases/latest/download/GITHUB.MANAGER.dmg)
 
 ## Build and run
 
