@@ -57,6 +57,10 @@ Review and accept the Xcode license interactively before using the toolchain:
 sudo xcodebuild -license
 ```
 
+## Download APP
+
+[! Download Github Manager Latest Version ] (https://github.com/namgyall/Github_Manager/releases/latest/download/GITHUB.MANAGER.dmg)
+
 ## Build and run
 
 Clone this repository and enter its folder:
